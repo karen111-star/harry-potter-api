@@ -1,0 +1,25 @@
+
+  {
+  "name": "Harry Potter API App",
+  "short_name": "HP API",
+  "description": "Consulta personajes, hechizos y casas del mundo de Harry Potter.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2d2d2d", 
+  "theme_color": "#1a1a1a",       
+  "orientation": "portrait",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/harryicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/hpsplash.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
+
